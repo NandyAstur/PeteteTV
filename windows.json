@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "channel": "stable",
+  "published": false,
+  "version": "0.1.0",
+  "build": 9,
+  "tag": "v0.1.0-c09",
+  "asset": "Petete-TV-Windows-Setup.exe",
+  "sha256Asset": "Petete-TV-Windows-Setup.exe.sha256",
+  "downloadUrl": "https://github.com/NandyAstur/PeteteTV/releases/download/v0.1.0-c09/Petete-TV-Windows-Setup.exe",
+  "sha256Url": "https://github.com/NandyAstur/PeteteTV/releases/download/v0.1.0-c09/Petete-TV-Windows-Setup.exe.sha256",
+  "releaseNotes": "Canal de actualización de Windows preparado. Todavía no hay una release de Petete TV publicada para instalación automática."
+}
