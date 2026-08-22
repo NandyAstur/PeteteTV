@@ -4,11 +4,11 @@
     "channel":  "stable",
     "published":  true,
     "version":  "0.1.0",
-    "build":  20,
-    "tag":  "v0.1.0-c20",
+    "build":  21,
+    "tag":  "v0.1.0-c21",
     "asset":  "Petete-TV-Windows-Setup.exe",
     "sha256Asset":  "Petete-TV-Windows-Setup.exe.sha256",
-    "downloadUrl":  "https://github.com/NandyAstur/PeteteTV/releases/download/v0.1.0-c20/Petete-TV-Windows-Setup.exe",
-    "sha256Url":  "https://github.com/NandyAstur/PeteteTV/releases/download/v0.1.0-c20/Petete-TV-Windows-Setup.exe.sha256",
-    "releaseNotes":  "Petete TV 0.1.0 c20 para Windows."
+    "downloadUrl":  "https://github.com/NandyAstur/PeteteTV/releases/download/v0.1.0-c21/Petete-TV-Windows-Setup.exe",
+    "sha256Url":  "https://github.com/NandyAstur/PeteteTV/releases/download/v0.1.0-c21/Petete-TV-Windows-Setup.exe.sha256",
+    "releaseNotes":  "Petete TV 0.1.0 c21 para Windows."
 }
